@@ -1,5 +1,3 @@
-# Use a descriptive name for the node:
-#
 #node.name: slave
 #
 # Add custom attributes to the node:
