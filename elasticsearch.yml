@@ -1,6 +1,4 @@
 
-#node.attr.rack: r1
-#
 # ----------------------------------- Paths ------------------------------------
 #
 # Path to directory where to store the data (separate multiple locations by comma):
