@@ -29,7 +29,7 @@
     "loopback-boot": "^2.6.5",
     "loopback-component-explorer": "^5.0.0",
     "loopback-connector-esv6": "^1.0.4",
-    "loopback-connector-mongodb": "^1.18.1",
+    "loopback-connector-mongodb": "^5.3.0",
     "loopback-connector-mysql": "^5.3.1",
     "loopback-datasource-juggler": "^3.18.1",
     "moment": "^2.20.1",
